@@ -1,0 +1,2 @@
+Result: 100000Result: 100Result: 9
+Result: 16
